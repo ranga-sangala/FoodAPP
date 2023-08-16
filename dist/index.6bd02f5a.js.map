@@ -1,0 +1,1 @@
+{"mappings":"AAAA,MAAM,OAAO,SAAS,WAAW,SAAS,eAAe","sources":["App.js"],"sourcesContent":["const root = ReactDOM.createRoot(document.getElementById(\"root\"));"],"names":[],"version":3,"file":"index.6bd02f5a.js.map","sourceRoot":"/__parcel_source_root/"}
